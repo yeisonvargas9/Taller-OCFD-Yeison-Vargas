@@ -1,5 +1,5 @@
 // Definimos el objeto persona con sus propiedades básicas
-const persona1 = {
+const persona = {
     nombre: "Juan",
     edad: 23,
     altura: 1.68,
